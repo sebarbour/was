@@ -1,2 +1,12 @@
-var BODY = document.getElementById("o_c1317382840");
-console.log(BODY);
+function forumHide(){
+var FORUM = parent.document.getElementById("o_c1318029145");
+console.log(FORUM);
+}
+function findForum(){
+	
+}
+var EVENTLNR = parent.document.getElementById("chubaka");
+console.log(EVENTLNR);
+EVENTLNR.addEventListener("click", function(){
+	console.log("Event fired");
+});

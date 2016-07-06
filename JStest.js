@@ -5,8 +5,10 @@ console.log(FORUM);
 function findForum(){
 	
 }
-var EVENTLNR = parent.document.getElementById("chubaka");
-console.log(EVENTLNR);
-EVENTLNR.addEventListener("click", function(){
-	console.log("Event fired");
-});
+setTimeout(function(){
+	var EVENTLNR = parent.document.getElementById("chubaka");
+	console.log(EVENTLNR);
+	EVENTLNR.addEventListener("click", function(){
+		console.log("Event fired");
+	});
+	},2000);

@@ -38,7 +38,6 @@ function insertScript(){
 	if (MYSCRIPTSRC != "https://rawgit.com/sebarbour/was/master/dropdown.js"){
 		var SCRIPT1 = parent.document.createElement("script");
 		SCRIPT1.setAttribute("src","https://rawgit.com/sebarbour/was/master/dropdown.js");
-		SCRIPT1.setAttribute("id", "myScript");
 		console.log(SCRIPT1);
 		parent.document.getElementsByTagName("head")[0].appendChild(SCRIPT1);
 	}

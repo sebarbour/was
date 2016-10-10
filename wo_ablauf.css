@@ -22,8 +22,8 @@
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
 }
 .ablaufShapeTimeMonth{
-	border-left: 1px dotted black;
-	border-right: 1px dotted black;
+	border-left: 1px dotted #000;
+	border-right: 1px dotted #000;
 	height: 100%;
 	top: 10px;
 }
@@ -83,7 +83,7 @@
 }
 h2#status{
 	text-align: center;
-	color: white;
+	color: #fff;
 	margin: auto;
 }
 #ablaufShapeTimeNow{
@@ -93,7 +93,7 @@ h2#status{
 	opacity: 0.8;
 	position: absolute;
 	border-radius: 5px;
-	color: white;
+	color: #fff;
 	text-align: center;
 	padding-top: 1%;
 	border-top:30px;
@@ -117,7 +117,7 @@ div.ablaufShapeContent > a > span{
 		border-left-color: #35577A;
 }
 .ablaufShapeContent:hover  > a > span > h2{
-	color: white;
+	color: #fff;
 }
 @media only screen and (min-width: 400px){
 	.ablaufShapeContentSquare{

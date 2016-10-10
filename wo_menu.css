@@ -28,12 +28,6 @@ div.table{
 	min-width: 50%;
 	max-width: 75%;
 }
-
-div.menutable{
-	display: inline-table;
-	width: 100%;
-
-}
 section.center{
 	position: relative;
 	padding-right: 2px;

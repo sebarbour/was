@@ -224,3 +224,6 @@ iframe.fullwidth{
 div.main{
 	min-height:500px;
 }
+ul.WOstyle li:before{
+	background-image: url("images/bulletpoint_wo.png");
+}

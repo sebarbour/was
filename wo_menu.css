@@ -32,11 +32,11 @@
 }
 p, h3, h4{
 	font-family: 'WeblySleekUISemibold',sans-serif;
-	color: black;
+	color: #000;
 }
 h1, h2{
 	font-family: 'WeblySleekUISemilight',sans-serif;
-	color: black;
+	color: #000;
 }
 h1{
 	text-shadow: 3px 3px rgba(0,0,0,0.1);

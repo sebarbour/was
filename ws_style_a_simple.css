@@ -3,32 +3,32 @@
 
 @font-face {
   font-family: 'WeblySleekUILight';
-  src: url('font/WeblySleek/weblysleekuil.eot');
-  src: url('font/WeblySleek/weblysleekuil.eot?#iefix') format('embedded-opentype'),
-       url('font/WeblySleek/weblysleekuil.woff') format('woff'),
-       url('font/WeblySleek/weblysleekuil.ttf') format('truetype'),
-       url('font/WeblySleek/weblysleekuil.svg#WeblySleekUILight') format('svg');
+  src: url('/font/WeblySleek/weblysleekuil.eot');
+  src: url('/font/WeblySleek/weblysleekuil.eot?#iefix') format('embedded-opentype'),
+       url('/font/WeblySleek/weblysleekuil.woff') format('woff'),
+       url('/font/WeblySleek/weblysleekuil.ttf') format('truetype'),
+       url('/font/WeblySleek/weblysleekuil.svg#WeblySleekUILight') format('svg');
 }
 
 
 
 @font-face {
   font-family: 'WeblySleekUILight-Italic';
-  src: url('font/WeblySleek/weblysleekuili.eot');
-  src: url('font/WeblySleek/weblysleekuili.eot?#iefix') format('embedded-opentype'),
-       url('font/WeblySleek/weblysleekuili.woff') format('woff'),
-       url('font/WeblySleek/weblysleekuili.ttf') format('truetype'),
-       url('font/WeblySleek/weblysleekuili.svg#WeblySleekUILight-Italic') format('svg');
+  src: url('/font/WeblySleek/weblysleekuili.eot');
+  src: url('/font/WeblySleek/weblysleekuili.eot?#iefix') format('embedded-opentype'),
+       url('/font/WeblySleek/weblysleekuili.woff') format('woff'),
+       url('/font/WeblySleek/weblysleekuili.ttf') format('truetype'),
+       url('/font/WeblySleek/weblysleekuili.svg#WeblySleekUILight-Italic') format('svg');
 }
 
 
 @font-face {
   font-family: 'WeblySleekUISemilight';
-  src: url('font/WeblySleek/weblysleekuisl.eot');
-  src: url('font/WeblySleek/weblysleekuisl.eot?#iefix') format('embedded-opentype'),
-       url('font/WeblySleek/weblysleekuisl.woff') format('woff'),
-       url('font/WeblySleek/weblysleekuisl.ttf') format('truetype'),
-       url('font/WeblySleek/weblysleekuisl.svg#WeblySleekUISemilight') format('svg');
+  src: url('/font/WeblySleek/weblysleekuisl.eot');
+  src: url('/font/WeblySleek/weblysleekuisl.eot?#iefix') format('embedded-opentype'),
+       url('/font/WeblySleek/weblysleekuisl.woff') format('woff'),
+       url('/font/WeblySleek/weblysleekuisl.ttf') format('truetype'),
+       url('/font/WeblySleek/weblysleekuisl.svg#WeblySleekUISemilight') format('svg');
 }
 
 html, body, div, h1, h2, h3, h4, h5, h6, ol, dl, dt, dd, p, blockquote, pre, form, fieldset, table, th, td
@@ -161,7 +161,7 @@ p a:link:after{
 	display:inline-block;
 	width:22px;
 	height:20px;
-	background-image: url("images/linkimg_h.png");
+	background-image: url("/images/linkimg_h.png");
 	background-repeat:no-repeat;
 	background-size: 0.8em;
 	padding-top:0px;
@@ -189,7 +189,7 @@ ul li:before{
 	display:inline-block;
 	width:28px;
 	height:20px;
-	background-image: url("images/bulletpoint_gr.png");
+	background-image: url("/images/bulletpoint_gr.png");
 	background-repeat:no-repeat;
 	background-size: 0.4em;
 	padding-top:3px;

@@ -106,24 +106,24 @@ div.flex{
 button.scenarios{
 	width: 30%;
 	height: 80px;
-	color: white;
+	color: #fff;
 }
 button.reset{
 	width: 90%;
 	height: 40px;
-	color: white;
+	color: #fff;
 }
 button.scenarios:focus, button.reset:focus{
-	color: white;
+	color: #fff;
 	background-color: rgb(196,90,18);
 }
 td.onChange{
 	background-color: rgb(196,90,18);
-	color: white;
+	color: #fff;
 }
 td.onAddition{
 	background-color: rgb(255,204,0);
-	color: black;
+	color: #000;
 }
 body.full{
 	width: 100%;
@@ -200,7 +200,7 @@ button.lower-nav:hover{
 }
 .nav-tabs > li > a{
 	background:#d8e4f0;
-	color: black !important;
+	color: #000 !important;
 }
 ul.naked li:before{
 	display: none;
@@ -211,11 +211,11 @@ ul.naked li{
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover, .nav-tabs > li > a:hover{
 	background: rgba(59,95,138,1) !important;
-	color: white !important;
+	color: #fff !important;
 }
 .nav-tabs > li > a:focus{
 	background: rgba(59,95,138,1) !important;
-	color: white !important;
+	color: #fff !important;
 }
 iframe.fullwidth{
 	width: 100%;

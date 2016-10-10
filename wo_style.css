@@ -3,32 +3,32 @@
 
 @font-face {
   font-family: 'WeblySleekUILight';
-  src: url('font/WeblySleek/weblysleekuil.eot');
-  src: url('font/WeblySleek/weblysleekuil.eot?#iefix') format('embedded-opentype'),
-       url('font/WeblySleek/weblysleekuil.woff') format('woff'),
-       url('font/WeblySleek/weblysleekuil.ttf') format('truetype'),
-       url('font/WeblySleek/weblysleekuil.svg#WeblySleekUILight') format('svg');
+  src: url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuil.eot');
+  src: url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuil.eot?#iefix') format('embedded-opentype'),
+       url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuil.woff') format('woff'),
+       url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuil.ttf') format('truetype'),
+       url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuil.svg#WeblySleekUILight') format('svg');
 }
 
 
 
 @font-face {
   font-family: 'WeblySleekUILight-Italic';
-  src: url('font/WeblySleek/weblysleekuili.eot');
-  src: url('font/WeblySleek/weblysleekuili.eot?#iefix') format('embedded-opentype'),
-       url('font/WeblySleek/weblysleekuili.woff') format('woff'),
-       url('font/WeblySleek/weblysleekuili.ttf') format('truetype'),
-       url('font/WeblySleek/weblysleekuili.svg#WeblySleekUILight-Italic') format('svg');
+  src: url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuili.eot');
+  src: url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuili.eot?#iefix') format('embedded-opentype'),
+       url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuili.woff') format('woff'),
+       url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuili.ttf') format('truetype'),
+       url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuili.svg#WeblySleekUILight-Italic') format('svg');
 }
 
 
 @font-face {
   font-family: 'WeblySleekUISemilight';
-  src: url('font/WeblySleek/weblysleekuisl.eot');
-  src: url('font/WeblySleek/weblysleekuisl.eot?#iefix') format('embedded-opentype'),
-       url('font/WeblySleek/weblysleekuisl.woff') format('woff'),
-       url('font/WeblySleek/weblysleekuisl.ttf') format('truetype'),
-       url('font/WeblySleek/weblysleekuisl.svg#WeblySleekUISemilight') format('svg');
+  src: url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuisl.eot');
+  src: url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuisl.eot?#iefix') format('embedded-opentype'),
+       url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuisl.woff') format('woff'),
+       url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuisl.ttf') format('truetype'),
+       url('https://rawgit.com/sebarbour/was/masterfont/WeblySleek/weblysleekuisl.svg#WeblySleekUISemilight') format('svg');
 }
 
 table.small{

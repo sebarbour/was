@@ -1,4 +1,49 @@
-
+@font-face {
+  font-family: 'WeblySleekUILight';
+  src: url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuil.eot');
+  src: url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuil.eot?#iefix') format('embedded-opentype'),
+       url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuil.woff') format('woff'),
+       url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuil.ttf') format('truetype'),
+       url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuil.svg#WeblySleekUILight') format('svg');
+}
+@font-face {
+  font-family: 'WeblySleekUILight-Italic';
+  src: url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuili.eot');
+  src: url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuili.eot?#iefix') format('embedded-opentype'),
+       url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuili.woff') format('woff'),
+       url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuili.ttf') format('truetype'),
+       url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuili.svg#WeblySleekUILight-Italic') format('svg');
+}
+@font-face {
+  font-family: 'WeblySleekUISemilight';
+  src: url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuisl.eot');
+  src: url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuisl.eot?#iefix') format('embedded-opentype'),
+       url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuisl.woff') format('woff'),
+       url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuisl.ttf') format('truetype'),
+       url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuisl.svg#WeblySleekUISemilight') format('svg');
+}
+@font-face {
+  font-family: 'WeblySleekUISemibold';
+  src: url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuisb.eot');
+  src: url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuisb.eot?#iefix') format('embedded-opentype'),
+       url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuisb.woff') format('woff'),
+       url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuisb.ttf') format('truetype'),
+       url('https://rawgit.com/sebarbour/was/master/font/WeblySleek/weblysleekuisb.svg#WeblySleekUISemibold') format('svg');
+}
+p, h3, h4{
+	font-family: 'WeblySleekUISemibold',sans-serif;
+	color: black;
+}
+h1, h2{
+	font-family: 'WeblySleekUISemilight',sans-serif;
+	color: black;
+}
+h1{
+	text-shadow: 3px 3px rgba(0,0,0,0.1);
+}
+p{
+	font-size: 125%;
+}
 div.flex{
 display: -webkit-flex;
 display: -moz-flex;

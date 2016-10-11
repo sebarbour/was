@@ -226,3 +226,6 @@ div.main{
 ul.WOstyle li:before{
 	background-image: url("https://rawgit.com/sebarbour/was/master/images/bulletpoint_wo.png");
 }
+.clearfloat{
+clear: both;
+}

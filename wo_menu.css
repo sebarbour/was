@@ -164,7 +164,7 @@ section.left{
   -ms-transform-origin: 50% 50%;
   -ms-animation-fill-mode:forwards; /*IE 10+*/
 }
-.dropdown:hover .dropbtn h2, .menubtn:hover h2{
+.dropdown:hover .dropbtn h2, .menubtn:hover h2, .menubtn:hover p{
 	color: #fff;
 }
 div.click{

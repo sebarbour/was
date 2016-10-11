@@ -174,20 +174,6 @@ table.br, table.er, table.mr, table.zr{
 	width: 100%;
 }
 }
-h1.standard{
-	max-width: 750px;
-	float:left;
-	text-indent: 0px;
-	padding: 0px 20px 0px 20px;
-	margin: 20px 5px 10px 0px;
-	font-family: 'WeblySleekUILight',sans-serif !important;
-	font-size:3.9em !important;
-	font-weight:500 !important;
-	letter-spacing:0.1em !important;
-	/*background-color: #D6D8D4;*/
-	color: #000000 !important;
-
-}
 #skizze:hover{
 	cursor: zoom-in;
 }

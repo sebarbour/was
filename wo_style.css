@@ -229,3 +229,6 @@ ul.WOstyle li:before{
 .clearfloat{
 clear: both;
 }
+.floatleft{
+float: left;
+}

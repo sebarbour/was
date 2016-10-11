@@ -203,4 +203,10 @@ div.click{
 	padding-bottom: 5px;
 	padding-top: 5px;
 }
-
+.clearfloat{
+clear: both;
+}
+.floatleft{
+float: left;
+	margin: 5px 5px 5px 0px;
+}

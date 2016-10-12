@@ -146,6 +146,9 @@ body.full p, body.full h1, body.full h2, body.full h3{
 	width: 96%;
 	max-width: 96%;
 }
+body.fullfont{
+	font-size: 100% !important;
+}
 .containerFull{
 	width:98%;
 }

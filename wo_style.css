@@ -141,7 +141,6 @@ td.onAddition{
 body.full{
 	width: 100%;
 	max-width: 100%;
-	font-size: 62.5% !important;
 }
 body.full p, body.full h1, body.full h2, body.full h3{
 	width: 96%;

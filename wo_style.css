@@ -156,8 +156,9 @@ body.fullfont{
 	table.br td, table.br th, table.er td, table.er th, table.mr td, table.mr th, table.zr td, table.zr th{
 	font-size: 1.3em;
 }
-	ul.naked li{
+	ul.adjusted li{
 	min-height: 60px;
+	height: 60px;
 	}
 }
 @media only screen and (min-width: 600px) and (max-width: 770px){

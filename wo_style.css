@@ -260,3 +260,6 @@ ol.lowerroman{
 	margin: 20px 0px 20px;
 	list-style-type: lower-latin;
 }
+table.WOstyle th{
+	background-color:#337ab7;
+}

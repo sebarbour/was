@@ -138,7 +138,7 @@ td.onAddition{
 	background-color: rgb(255,204,0);
 	color: #000;
 }
-body.full{
+body.full, body.full p, body.full h1, body.full h2, body.full h3{
 	width: 100%;
 	max-width: 100%;
 }

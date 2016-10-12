@@ -152,10 +152,13 @@ body.fullfont{
 .containerFull{
 	width:98%;
 }
-@media only screen and (min-width:770px) and (max-width: 832px){
+@media only screen and (min-width:769px) and (max-width: 832px){
 	table.br td, table.br th, table.er td, table.er th, table.mr td, table.mr th, table.zr td, table.zr th{
 	font-size: 1.3em;
 }
+	ul.naked li{
+	min-height: 60px;
+	}
 }
 @media only screen and (min-width: 600px) and (max-width: 770px){
 	table.br td, table.br th, table.er td, table.er th, table.mr td, table.mr th, table.zr td, table.zr th{

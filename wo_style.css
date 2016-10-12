@@ -261,6 +261,6 @@ ol.lowerroman{
 	list-style-type: lower-latin;
 }
 table.WOstyle th{
-	background: rgba(59, 95, 138, 1) none repeat scroll 0 0 !important;
+	background: rgba(59,95,138,1) !important;
 	color: #fff;
 }

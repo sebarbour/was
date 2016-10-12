@@ -234,9 +234,25 @@ ul.WOstyle li:before{
 	background-image: url("https://rawgit.com/sebarbour/was/master/images/bulletpoint_wo.png");
 }
 .clearfloat{
-clear: both;
+	clear: both;
 }
 .floatleft{
-float: left;
+	float: left;
 	margin: 5px 5px 5px 0px;
+}
+ol{
+	margin: 20px 0px 20px;
+	list-style-type: decimal;
+}
+ol.upperroman{
+	list-style-type: upper-roman;
+}
+ol.lowerroman{
+	list-style-type: lower-roman;
+}
+ol.upperlatin{
+	list-style-type: upper-latin;
+}
+ol.lowerroman{
+	list-style-type: lower-latin;
 }

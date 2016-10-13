@@ -280,6 +280,7 @@ ol.upperlatin{
 ol.lowerlatin{
 	margin: 20px 0px 20px;
 	margin-left: 28px;
+	padding-left: 28px;
 	list-style-type: lower-latin;
 }
 table.WOstyle th{

@@ -287,3 +287,8 @@ table.WOstyle th{
 	background: rgba(59,95,138,1) !important;
 	color: #fff;
 }
+.division{
+	border-top-style: solid;
+	border-width: medium;
+	border-color: #000;
+}

@@ -252,6 +252,15 @@ ol{
 	margin: 20px 0px 20px;
 	list-style-type: decimal;
 }
+ol li:before{
+	content:'  ';
+	display:inline-block;
+	width:28px;
+	height:20px;
+	background-size: 0.4em;
+	padding-top:3px;
+	background-position: 10% 80%;
+}
 ol.upperroman{
 	margin: 20px 0px 20px;
 	list-style-type: upper-roman;

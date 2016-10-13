@@ -274,7 +274,7 @@ ol.upperlatin{
 	list-style-type: upper-latin;
 }
 ol.lowerlatin{
-	margin: 20px 0px 20px;
+	margin: 20px 0px 20px 28px;
 	list-style-type: lower-latin;
 }
 table.WOstyle th{

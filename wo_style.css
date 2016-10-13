@@ -249,7 +249,8 @@ ul.WOstyle li:before{
 	margin: 5px 5px 5px 0px;
 }
 ol{
-	margin: 20px 0px 20px 28px;
+	margin: 20px 0px 20px;
+	margin-left: 28px;
 	list-style-type: decimal;
 }
 /*ol li:before{
@@ -263,18 +264,22 @@ ol{
 }*/
 ol.upperroman{
 	margin: 20px 0px 20px;
+	margin-left: 28px;
 	list-style-type: upper-roman;
 }
 ol.lowerroman{
 	margin: 20px 0px 20px;
+	margin-left: 28px;
 	list-style-type: lower-roman;
 }
 ol.upperlatin{
 	margin: 20px 0px 20px;
+	margin-left: 28px;
 	list-style-type: upper-latin;
 }
 ol.lowerlatin{
-	margin: 20px 0px 20px 28px;
+	margin: 20px 0px 20px;
+	margin-left: 28px;
 	list-style-type: lower-latin;
 }
 table.WOstyle th{

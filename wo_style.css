@@ -255,6 +255,9 @@ div.main{
 ul.WOstyle li:before{
 	background-image: url("https://rawgit.com/sebarbour/was/master/images/bulletpoint_wo.png");
 }
+ul.WOstyle{
+	list-style-position: outside;
+}
 .clearfloat{
 	clear: both;
 }
@@ -266,6 +269,7 @@ ol{
 	margin: 20px 0px 20px;
 	margin-left: 28px;
 	list-style-type: decimal;
+	list-style-position: outside;
 }
 /*ol li:before{
 	content:'  ';

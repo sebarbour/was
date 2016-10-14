@@ -190,6 +190,9 @@ body.fullfont{
 table.br, table.er, table.mr, table.zr{
 	width: 100%;
 }
+	h3, h4{
+	font-size: 1em;
+}
 }
 @media only screen and (min-width: 396px) and (max-width: 600px){
 	table.br td, table.br th, table.er td, table.er th, table.mr td, table.mr th, table.zr td, table.zr th{

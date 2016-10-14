@@ -328,3 +328,6 @@ element.style {
 	background-color: rgba(59,95,138,1) !important;
 	color: #fff;
 }
+p.arrow{
+	font-size: 7em;
+}

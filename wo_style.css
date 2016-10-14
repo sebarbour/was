@@ -306,3 +306,6 @@ table.WOstyle th{
 	border-width: medium;
 	border-color: #000;
 }
+element.style {
+    background-color: rgba(59,95,138,1) !important;
+}	

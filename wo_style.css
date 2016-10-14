@@ -311,5 +311,10 @@ table.WOstyle th{
 	border-color: #000;
 }
 element.style {
-    background-color: rgba(59,95,138,1) !important;
+    	background-color: rgba(59,95,138,1) !important;
 }	
+.square{
+	border: 1px solid #000;
+	box-sizing: border-box;
+	box-shadow: 10px 10px 5px #000;
+}

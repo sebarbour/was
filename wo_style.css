@@ -321,3 +321,10 @@ element.style {
 	box-sizing: border-box;
 	box-shadow: 10px 10px 5px #000;
 }
+.blue{
+	background-color: #d8e4f0 !important;
+}
+.blue:hover{
+	background-color: rgba(59,95,138,1) !important;
+	color: #fff;
+}

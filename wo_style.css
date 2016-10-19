@@ -354,3 +354,9 @@ p.arrow{
 	box-shadow: 10px 10px 5px #3B5F8A;
 	padding-bottom: 5px;
 }
+p a.WOstyle:link::after{
+	background-image: none;
+}
+p a.WOstyle{
+	color: #3B5F8A;
+}

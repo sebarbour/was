@@ -356,7 +356,13 @@ p.arrow{
 }
 p a.WOstyle:link::after{
 	background-image: none;
+	background-size: 0em auto;
+    	content: " ";
+    	display: inline-block;
+    	height: 0px;
+    	padding-top: 0;
+    	width: 0px;
 }
 p a.WOstyle{
-	color: #3B5F8A;
+	color: #3B5F8A !important;
 }

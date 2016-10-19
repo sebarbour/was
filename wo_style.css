@@ -326,6 +326,7 @@ element.style {
 }
 .blue h4, .blue h3{
 	color: #000;
+	text-decoration:none
 }
 .blue:hover{
 	background-color: rgba(59,95,138,1) !important;

@@ -357,11 +357,11 @@ p.arrow{
 	box-shadow: 10px 10px 5px #3B5F8A;
 }
 .wotask{
-	border-top: solid 1px #FF8566;
-	border-bottom: solid 1px #FF8566;
-	border-left: solid 1px #FF8566;
-	border-right: solid 1px #FF8566;
-	box-shadow: 10px 10px 5px #FF8566;
+	border-top: solid 1px #f78154;
+	border-bottom: solid 1px #f78154;
+	border-left: solid 1px #f78154;
+	border-right: solid 1px #f78154;
+	box-shadow: 10px 10px 5px #f78154;
 }
 p a.WOstyle:link::after{
 	content: none;

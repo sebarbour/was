@@ -231,7 +231,7 @@ body.fullfont{
 	margin-top: 20px;
 	margin-bottom: 10px;
 	box-sizing: border-box;
-	box-shadow: 10px 10px 5px #3B5F8A;
+	box-shadow: 10px 10px 5px rgba(59,95,138,0.2);
 	padding-bottom: 5px;
 }
 ul.WOstyle li:before{

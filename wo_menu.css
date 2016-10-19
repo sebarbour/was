@@ -221,3 +221,18 @@ body.full p, body.full h1, body.full h2, body.full h3{
 body.fullfont{
 	font-size: 100% !important;
 }
+.lernziele{
+	border-top: solid 1px #3B5F8A;
+	border-bottom: solid 1px #3B5F8A;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+	box-shadow: 10px 10px 5px #3B5F8A;
+	padding-bottom: 5px;
+}
+ul.WOstyle li:before{
+	background-image: url("https://rawgit.com/sebarbour/was/master/images/bulletpoint_wo.png");
+}
+ul.WOstyle{
+	list-style-position: outside !important;
+}

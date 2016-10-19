@@ -323,17 +323,20 @@ element.style {
 }
 .blue{
 	background-color: #d8e4f0 !important;
+	text-decoration:none;
 }
 .blue h4, .blue h3{
 	color: #000;
-	text-decoration:none
+	text-decoration:none;
 }
 .blue:hover{
 	background-color: rgba(59,95,138,1) !important;
 	color: #fff;
+	text-decoration:none;
 }
 .blue:hover h4, .blue:hover h3{
 	color: #fff;
+	text-decoration:none;
 }
 p.arrow{
 	font-size: 7em;

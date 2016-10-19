@@ -336,6 +336,8 @@ p.arrow{
 	margin: auto;
 	border-top: solid 1px #3B5F8A;
 	border-bottom: solid 1px #3B5F8A;
+	border-left: solid 1px #3B5F8A;
+	border-right: solid 1px #3B5F8A;
 	margin-top: 20px;
 	margin-bottom: 10px;
 	box-sizing: border-box;

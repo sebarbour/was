@@ -341,18 +341,27 @@ element.style {
 p.arrow{
 	font-size: 7em;
 }
-.absatz{
+.absatz, .wotask{
 	width: 95%;
 	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+	padding-bottom: 5px;
+}
+.absatz{
 	border-top: solid 1px #3B5F8A;
 	border-bottom: solid 1px #3B5F8A;
 	border-left: solid 1px #3B5F8A;
 	border-right: solid 1px #3B5F8A;
-	margin-top: 20px;
-	margin-bottom: 10px;
-	box-sizing: border-box;
 	box-shadow: 10px 10px 5px #3B5F8A;
-	padding-bottom: 5px;
+}
+.wotask{
+	border-top: solid 1px #FF8566;
+	border-bottom: solid 1px #FF8566;
+	border-left: solid 1px #FF8566;
+	border-right: solid 1px #FF8566;
+	box-shadow: 10px 10px 5px #FF8566;
 }
 p a.WOstyle:link::after{
 	content: none;

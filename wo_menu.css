@@ -96,6 +96,7 @@ section.left{
 }
 .menubtn{
 	width: 90%;
+	margin: auto;
 	background-color: #D8E4F0;
     color: #000;
     border-style: solid;

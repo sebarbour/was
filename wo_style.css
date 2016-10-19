@@ -324,6 +324,9 @@ element.style {
 .blue{
 	background-color: #d8e4f0 !important;
 }
+.blue h4{
+	color: #000;
+}
 .blue:hover{
 	background-color: rgba(59,95,138,1) !important;
 	color: #fff;

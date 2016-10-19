@@ -332,11 +332,11 @@ p.arrow{
 	font-size: 7em;
 }
 .lernziele{
-	border-top: solid 1px rgba(59,95,138,1);
-	border-bottom: solid 1px rgba(59,95,138,1);
+	border-top: solid 1px #3B5F8A;
+	border-bottom: solid 1px #3B5F8A;
 	margin-top: 20px;
 	margin-bottom: 10px;
 	box-sizing: border-box;
-	box-shadow: 10px 10px 5px rgba(59,95,138,1);
+	box-shadow: 10px 10px 5px #3B5F8A;
 	padding-bottom: 5px;
 }

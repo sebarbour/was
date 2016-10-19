@@ -95,6 +95,7 @@ section.left{
 	max-width: 35%;
 }
 .menubtn{
+	display: block;
 	width: 90%;
 	margin: auto;
 	background-color: #D8E4F0;

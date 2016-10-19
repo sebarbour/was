@@ -328,6 +328,9 @@ element.style {
 	background-color: rgba(59,95,138,1) !important;
 	color: #fff;
 }
+.blue:hover h4{
+	color: #fff;
+}
 p.arrow{
 	font-size: 7em;
 }

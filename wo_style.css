@@ -98,7 +98,7 @@ div.menutable{
 .videoContainer{
 	width: 90%;
 	margin: auto;
-	display: inline-block;
+	display: block;
 }
 .panopto{
 	width: 100%; 

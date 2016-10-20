@@ -325,23 +325,58 @@ element.style {
 	box-sizing: border-box;
 	box-shadow: 10px 10px 5px #000;
 }
+/*START Colors*/
 .blue{
-	background-color: #d8e4f0 !important;
-	text-decoration:none;
-}
-.blue h4, .blue h3{
-	color: #000;
-	text-decoration:none;
-}
-.blue:hover{
 	background-color: rgba(59,95,138,1) !important;
 	color: #fff;
 	text-decoration:none;
 }
-.blue:hover h4, .blue:hover h3{
+/*.blue h4, .blue h3{
+	color: #fff;
+	text-decoration:none;
+}*/
+.green{
+	background-color: rgba(95,173,86,1) !important;
 	color: #fff;
 	text-decoration:none;
 }
+.green h4, .green h3{
+
+}
+.yellow{
+	background-color: rgba(242,193,78,1) !important;
+	color: #fff;
+	text-decoration:none;
+}
+.yellow h4, .yellow h3{
+
+}
+.orange{
+	background-color: rgba(247,129,84,1) !important;
+	color: #fff;
+	text-decoration:none;
+}
+.orange h3, .orange h3{
+
+}
+.bluehover{
+	background-color: #d8e4f0 !important;
+	text-decoration:none;
+}
+.bluehover h4, .bluehover h3{
+	color: #000;
+	text-decoration:none;
+}
+.bluehover:hover{
+	background-color: rgba(59,95,138,1) !important;
+	color: #fff;
+	text-decoration:none;
+}
+.bluehover:hover h4, .bluehover:hover h3{
+	color: #fff;
+	text-decoration:none;
+}
+/*END Colors*/
 p.arrow{
 	font-size: 7em;
 }

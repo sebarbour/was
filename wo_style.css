@@ -98,6 +98,7 @@ div.menutable{
 .videoContainer{
 	width: 90%;
 	margin: auto;
+	clear: both;
 	display: block;
 	box-sizing: border-box;
 	padding-bottom: 5px;

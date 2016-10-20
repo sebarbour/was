@@ -379,6 +379,7 @@ element.style {
 /*END Colors*/
 p.arrow{
 	font-size: 7em;
+	line-height: 0.3em;
 }
 .absatz, .wotask{
 	width: 95%;

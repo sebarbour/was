@@ -400,7 +400,7 @@ p.arrow{
 	border-bottom: solid 1px #f78154;
 	border-left: solid 1px #f78154;
 	border-right: solid 1px #f78154;
-	box-shadow: 10px 10px 5px #f78154;
+	box-shadow: 10px 10px 5px #293133;
 }
 p a.WOstyle:link::after{
 	content: none;

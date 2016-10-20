@@ -393,7 +393,7 @@ p.arrow{
 	border-bottom: solid 1px #3B5F8A;
 	border-left: solid 1px #3B5F8A;
 	border-right: solid 1px #3B5F8A;
-	box-shadow: 10px 10px 5px #3B5F8A;
+	box-shadow: 10px 10px 5px rgba(41,49,51,0.3);
 }
 .wotask{
 	border-top: solid 1px #f78154;

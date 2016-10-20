@@ -102,7 +102,7 @@ div.menutable{
 	display: block;
 	box-sizing: border-box;
 	padding-bottom: 5px;
-	box-shadow: 10px 10px 5px #293133;
+	box-shadow: 10px 10px 5px rgba(41,49,51,0.5);
 }
 .panopto{
 	width: 100%; 
@@ -400,7 +400,7 @@ p.arrow{
 	border-bottom: solid 1px #f78154;
 	border-left: solid 1px #f78154;
 	border-right: solid 1px #f78154;
-	box-shadow: 10px 10px 5px #293133;
+	box-shadow: 10px 10px 5px rgba(41,49,51,0.5);
 }
 p a.WOstyle:link::after{
 	content: none;

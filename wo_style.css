@@ -363,7 +363,7 @@ element.style {
 	background-color: #d8e4f0 !important;
 	text-decoration:none;
 }
-.bluehover h4, .bluehover h3{
+.bluehover h4, .bluehover h3, .bluehover p{
 	color: #000;
 	text-decoration:none;
 }

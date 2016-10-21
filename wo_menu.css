@@ -110,6 +110,9 @@ section.left{
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 	text-decoration: none;
 }
+a.naked{
+	text-decoration: none;
+}
 .dropdown, .flexelement{
     position: relative;
     display: inline-block;

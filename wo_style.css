@@ -372,7 +372,7 @@ element.style {
 	color: #fff;
 	text-decoration:none;
 }
-.bluehover:hover h4, .bluehover:hover h3{
+.bluehover:hover h4, .bluehover:hover h3, .bluehover:hover p{
 	color: #fff;
 	text-decoration:none;
 }

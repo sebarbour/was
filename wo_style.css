@@ -409,7 +409,7 @@ p a.WOstyle:link::after{
 p a.WOstyle{
 	color: #3B5F8A !important;
 }
-a.naked{
+a.naked, a.naked:hover{
 	text-decoration: none;
 }
 .pointer{

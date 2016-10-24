@@ -245,11 +245,11 @@ ul.naked li{
 	font-size: 1.2em !important;
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover, .nav-tabs > li > a:hover, .nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover, .nav-pills > li > a:hover {
-	background: rgba(59,95,138,1) !important;
+	background: #0D3661 !important;
 	color: #fff !important;
 }
 .nav-tabs > li > a:focus, .nav-pills > li > a:focus{
-	background: rgba(59,95,138,1) !important;
+	background: #0D3661 !important;
 	color: #fff !important;
 }
 iframe.fullwidth{
@@ -309,7 +309,7 @@ ol.lowerlatin{
 	list-style-type: lower-latin;
 }
 table.WOstyle th{
-	background: #f1f1f1 !important;
+	background: #0D3661 !important;
 	color: #fff;
 }
 .division{
@@ -318,7 +318,7 @@ table.WOstyle th{
 	border-color: #000;
 }
 element.style {
-    	background-color: rgba(59,95,138,1) !important;
+    	background-color: #0D3661 !important;
 }	
 .square{
 	border: 1px solid #000;
@@ -327,7 +327,7 @@ element.style {
 }
 /*START Colors*/
 .blue{
-	background-color: #f1f1f1 !important;
+	background-color: #0D3661 !important;
 	color: #fff;
 	text-decoration:none;
 }
@@ -368,7 +368,7 @@ element.style {
 	text-decoration:none;
 }
 .bluehover:hover{
-	background-color: #f1f1f1 !important;
+	background-color: #0D3661 !important;
 	color: #fff;
 	text-decoration:none;
 }

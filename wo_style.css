@@ -412,3 +412,6 @@ p a.WOstyle{
 a.naked{
 	text-decoration: none;
 }
+.pointer{
+	cursor: pointer;
+}

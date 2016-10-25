@@ -415,3 +415,6 @@ a.naked, a.naked:hover, a.naked:active, a.naked:focus{
 .pointer{
 	cursor: pointer;
 }
+.steps{
+	padding: 0px;
+}

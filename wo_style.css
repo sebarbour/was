@@ -418,3 +418,8 @@ a.naked, a.naked:hover, a.naked:active, a.naked:focus{
 .steps{
 	padding: 0px;
 }
+.reverse{
+	-moz-transform: scale(-1, 1); 
+    	-webkit-transform: scale(-1, 1);  
+    	transform: scale(-1, 1); 
+}

@@ -403,6 +403,9 @@ p.arrow{
 	border-right: solid 1px #f78154;
 	box-shadow: 10px 10px 5px rgba(41,49,51,0.3);
 }
+.emptyBox{
+	box-shadow: 10px 10px 5px rgba(41,49,51,0.3);
+}
 p a.WOstyle:link::after{
 	content: none;
 }

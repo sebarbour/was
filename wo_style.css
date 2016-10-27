@@ -224,11 +224,13 @@ table.br, table.er, table.mr, table.zr{
 	margin: auto;
 }
 button.lower-nav{
-	background: rgba(59,95,138,0.2);
+	color: #000;
+	text-decoration:none;
 	/*font-size: 2em;*/
 }
 button.lower-nav:hover{
-	background: rgba(59,95,138,1);
+	background-color: #0D3661 !important;
+	color: #fff;
 }
 .hidden{
 	display:none;

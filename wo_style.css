@@ -431,3 +431,6 @@ a.naked, a.naked:hover, a.naked:active, a.naked:focus{
     	-webkit-transform: scale(-1, 1);  
     	transform: scale(-1, 1); 
 }
+video.slide::-webkit-media-controls{
+	display: none !important;
+}

@@ -280,6 +280,14 @@ ol.number{
 	margin-left: 28px;
 	list-style-type: decimal;
 	list-style-position: inside !important;
+	display: table;
+}
+ol.numer li{
+	display: table-row;	
+}
+ol.number li::before{
+	display: table-cell;
+	text-align: right;
 }
 /*ol li:before{
 	content:'  ';

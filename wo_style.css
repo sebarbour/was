@@ -275,7 +275,7 @@ ul.WOstyle{
 	float: left;
 	margin: 5px 5px 5px 0px;
 }
-ol{
+ol.number{
 	margin: 20px 0px 20px;
 	margin-left: 28px;
 	list-style-type: decimal;

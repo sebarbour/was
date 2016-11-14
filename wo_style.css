@@ -276,10 +276,10 @@ ul.WOstyle{
 	margin: 5px 5px 5px 0px;
 }
 ol.number{
-	margin: 20px 0px 20px;
+	margin: 45px 0px 20px;
 	margin-left: 28px;
 	list-style-type: decimal;
-	list-style-position: inside !important;
+	list-style-position: outside !important;
 	display: table;
 }
 ol.numer li{

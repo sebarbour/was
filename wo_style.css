@@ -279,7 +279,7 @@ ol.number{
 	margin: 20px 0px 20px;
 	margin-left: 28px;
 	list-style-type: decimal;
-	/*list-style-position: outside !important;*/
+	list-style-position: inside !important;
 }
 /*ol li:before{
 	content:'  ';

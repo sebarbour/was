@@ -445,3 +445,4 @@ video.slide::-webkit-media-controls{
 .pdf::after{
 	content: url('https://rawgit.com/sebarbour/was/master/images/Adobe_PDF_file_icon_32x32.png');
 }
+.o_openmeetings_icon:before { content: "ï„ˆ"; }

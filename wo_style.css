@@ -259,6 +259,10 @@ iframe.fullwidth{
 	width: 100%;
 	height: 1000px;
 }
+iframe.video{
+	width: 100%;
+	height: 650px;
+}
 div.main{
 	min-height:500px;
 }

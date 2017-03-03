@@ -219,8 +219,8 @@ float: left;
 	margin: 5px 5px 5px 0px;
 }
 body.full{
-	width: 100%;
-	max-width: 100%;
+	width: 95%;
+	max-width: 95%;
 }
 body.full p, body.full h1, body.full h2, body.full h3{
 	width: 96%;

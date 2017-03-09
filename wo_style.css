@@ -382,7 +382,7 @@ element.style {
 	color: #000;
 	text-decoration:none;
 }
-.bluehover:hover{
+.bluehover:hover, .bluehover:active{
 	background-color: #0D3661 !important;
 	color: #fff;
 	text-decoration:none;

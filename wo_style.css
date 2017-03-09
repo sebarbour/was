@@ -387,7 +387,7 @@ element.style {
 	color: #fff;
 	text-decoration:none;
 }
-.bluehover:hover h4, .bluehover:hover h3, .bluehover:hover p{
+.bluehover:hover h4, .bluehover:hover h3, .bluehover:hover p, .bluehover.active h4, .bluehover.active h3, .bluehover.active p{
 	color: #fff;
 	text-decoration:none;
 }

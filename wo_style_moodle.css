@@ -34,12 +34,12 @@
 html, body, div, h1, h2, h3, h4, h5, h6, ol, dl, dt, dd, p, blockquote, pre, form, fieldset, table, th, td
 { margin: 0; padding: 0; } 
 
-p, img,h2, h3{
+section#region-main p, img,h2, h3{
 	clear:left;
 }
 figure, article {margin:0} 
 
-body { 
+section#region-main{ 
 	font-size: 62.5%;
 	padding: 5px 5px 5px 0px;
 	max-width:750px
@@ -66,7 +66,7 @@ body {
 
 /* Schriften*/
 
-h1{
+section#region-main h1{
 	max-width: 750px;
 	float:left;
 	text-indent: 0px;
@@ -82,7 +82,7 @@ h1{
 }
 
 
-h2{
+section#region-main h2{
 	max-width: 750px;
 	float:left;
 	text-indent: 0px;
@@ -97,7 +97,7 @@ h2{
 	
 }
 
-h3{
+section#region-main h3{
 	max-width: 750px;
 	padding: 0px 20px 0px 20px;
 	margin: 20px 5px 10px 0px;
@@ -108,11 +108,11 @@ h3{
 	color: #000000;
 }
 
-p strong{
+section#region-main p strong{
 	font-weight:700
 }
 
-.comtext{
+section#region-main .comtext{
 	padding: 0px 20px 0px 20px;
 	font-family: 'WeblySleekUISemilight',sans-serif;
 	font-size: 1.9em;
@@ -126,7 +126,7 @@ p strong{
 	
 }
 
-p{
+section#region-main p{
 	padding: 0px 20px 0px 20px;
 	font-family: 'WeblySleekUISemilight',sans-serif;
 	font-size: 1.9em;
@@ -138,7 +138,7 @@ p{
 }
 
 
-p a{
+section#region-main p a{
 	color: #84A266;
 	font-family: 'WeblySleekUISemilight',sans-serif;
 	font-size: 1em;
@@ -147,11 +147,11 @@ p a{
 	letter-spacing:0.0em
 }
 
-p a:link{
+section#region-main p a:link{
 	font-weight:500;
 }
 
-p a:link:after{
+section#region-main p a:link:after{
 	content:' ';
 	display:inline-block;
 	width:22px;
@@ -163,23 +163,23 @@ p a:link:after{
 	background-position: 50% -50%;
 }
 
-p a:hover{
+section#region-main p a:hover{
 	color: #ff8566;
 	font-weight:500;
 }
 
-p a:visited{
+section#region-main p a:visited{
 	color: #84A266;
 	font-weight:600;
 }
 
-ul {
+section#region-main ul {
 	margin: 20px 0px 20px;
 	list-style-type: none;
 	
 }
 
-ul li:before{
+section#region-main ul li:before{
 	content:'  ';
 	display:inline-block;
 	width:28px;
@@ -190,14 +190,14 @@ ul li:before{
 	padding-top:3px;
 	background-position: 10% 80%;
 }
-li{
+section#region-main li{
 	font-family: 'WeblySleekUISemilight',sans-serif;
 	display: list-item; 
 	line-height: 1.6em;
 	font-size: 1.9em;
 }
 
-img{
+section#region-main img{
 	
 	max-width:100%;
 	/*border-top :solid #c0cfb0 2px;
@@ -206,7 +206,7 @@ img{
 	border-right: solid #84A266 1px;*/
 }
 
-figure, article {
+section#region-main figure, article {
 	margin: 30px 0px 30px 0px;
 	/*background-color : #e6ecdf;*/
 	display: block;
@@ -221,7 +221,7 @@ figure, article {
 }
 
 
-.contextwrap {
+section#region-main .contextwrap {
 	position: absolute;
 	display:table;
 	font-family: 'WeblySleekUISemilight',sans-serif;
@@ -235,7 +235,7 @@ figure, article {
 }
 
 
-.videowrap {
+section#region-main .videowrap {
 	position: absolute;
 	display:table;
 	font-family: 'WeblySleekUISemilight',sans-serif;
@@ -248,7 +248,7 @@ figure, article {
 	
 }
 
-div.contextwrap p{
+section#region-main div.contextwrap p{
 		color:#666666;
 		display:table-cell;
 		vertical-align:middle;

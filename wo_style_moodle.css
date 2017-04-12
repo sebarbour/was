@@ -48,7 +48,7 @@ section#region-main{
 
 
 
-.header{
+section#region-main .header{
 	max-width: 750px;
 	font-family: 'WeblySleekUILight',sans-serif;
 	float:left;
@@ -184,7 +184,7 @@ section#region-main ul li:before{
 	display:inline-block;
 	width:28px;
 	height:20px;
-	background-image: url("https://rawgit.com/sebarbour/was/master/images/bulletpoint_gr.png");
+	background-image: url("https://rawgit.com/sebarbour/was/master/images/bulletpoint_wo.png");
 	background-repeat:no-repeat;
 	background-size: 0.4em;
 	padding-top:3px;
@@ -667,10 +667,10 @@ iframe.video{
 div.main{
 	min-height:500px;
 }
-ul.WOstyle li:before{
+section#region-main ul.WOstyle li:before{
 	background-image: url("https://rawgit.com/sebarbour/was/master/images/bulletpoint_wo.png");
 }
-ul.WOstyle{
+section#region-main ul.WOstyle{
 	list-style-position: outside !important;
 }
 .clearfloat{

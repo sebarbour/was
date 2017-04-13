@@ -68,7 +68,6 @@ section#region-main .header{
 
 section#region-main h1{
 	max-width: 750px;
-	float:left;
 	text-indent: 0px;
 	padding: 0px 20px 0px 20px;
 	margin: 20px 5px 10px 0px;
@@ -84,7 +83,6 @@ section#region-main h1{
 
 section#region-main h2{
 	max-width: 750px;
-	float:left;
 	text-indent: 0px;
 	padding: 0px 20px 0px 20px;
 	margin: 20px 5px 10px 0px;

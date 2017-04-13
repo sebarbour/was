@@ -850,6 +850,6 @@ video.slide::-webkit-media-controls{
 }
 .o_openmeetings_icon:before { content: "ï„ˆ"; }
 div.row{
-margin: 0px, 0px, 0px, 0px;
+margin: 0px, 0px, 0px, 0px !important;
 }
 

@@ -42,7 +42,7 @@ figure, article {margin:0}
 section#region-main{ 
 	font-size: 62.5%;
 	padding: 5px 5px 5px 0px;
-	max-width:750px
+	max-width:100%;
 } 
  
 
